@@ -1,0 +1,9 @@
+.col-md-4 > img{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 3px solid darkgray;
+}
+.light-gray{
+    background: rgb(158, 158, 158);
+}
